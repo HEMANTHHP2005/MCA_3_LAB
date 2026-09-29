@@ -1,0 +1,1001 @@
+Year,Month_Name,State,Vehicle_Category,Vehicle_Type,EV_Sales_Quantity,Vehicle_Class
+2021,jan,tamil nadu,4-wheeler,car,233,low
+2022,dec,bihar,truck,light truck,75,low
+2024,jan,andhra pradesh,2-wheeler,scooter,496,medium
+2025,oct,andhra pradesh,truck,light truck,69,low
+2024,apr,maharashtra,truck,heavy truck,0,low
+2022,dec,madhya pradesh,4-wheeler,suv,164,low
+2022,jun,bihar,2-wheeler,motorcycle,218,low
+2023,jun,odisha,4-wheeler,car,475,medium
+2025,feb,kerala,2-wheeler,motorcycle,1718,high
+2025,jun,nagaland,3-wheeler,auto rickshaw,56,low
+2022,may,assam,3-wheeler,auto rickshaw,399,medium
+2023,aug,punjab,4-wheeler,car,384,medium
+2023,apr,rajasthan,4-wheeler,car,628,medium
+2022,sep,tamil nadu,3-wheeler,auto rickshaw,483,medium
+2024,may,punjab,truck,light truck,41,low
+2021,apr,uttar pradesh,2-wheeler,motorcycle,841,medium
+2023,feb,goa,truck,heavy truck,27,low
+2024,jul,west bengal,bus,city bus,33,low
+2022,apr,tamil nadu,truck,heavy truck,74,low
+2024,oct,kerala,4-wheeler,car,146,low
+2025,aug,assam,2-wheeler,scooter,333,medium
+2022,nov,madhya pradesh,truck,light truck,49,low
+2024,oct,maharashtra,truck,heavy truck,70,low
+2021,nov,tamil nadu,2-wheeler,motorcycle,1594,high
+2023,feb,himachal pradesh,bus,city bus,58,low
+2021,dec,west bengal,4-wheeler,car,524,medium
+2021,nov,himachal pradesh,truck,light truck,19,low
+2023,mar,mizoram,truck,light truck,76,low
+2023,aug,andhra pradesh,2-wheeler,motorcycle,1723,high
+2023,apr,arunachal pradesh,3-wheeler,auto rickshaw,97,low
+2024,feb,telangana,truck,light truck,16,low
+2024,sep,delhi,4-wheeler,suv,221,low
+2025,dec,sikkim,3-wheeler,cargo 3-wheeler,418,medium
+2023,aug,west bengal,truck,heavy truck,15,low
+2022,apr,assam,4-wheeler,car,607,medium
+2025,apr,nagaland,3-wheeler,auto rickshaw,82,low
+2021,apr,assam,2-wheeler,motorcycle,165,low
+2025,apr,haryana,bus,city bus,69,low
+2022,dec,west bengal,truck,heavy truck,31,low
+2024,jul,goa,2-wheeler,scooter,1369,high
+2024,jun,madhya pradesh,bus,intercity bus,110,low
+2021,nov,punjab,2-wheeler,scooter,844,medium
+2023,feb,gujarat,3-wheeler,auto rickshaw,559,medium
+2024,mar,madhya pradesh,3-wheeler,cargo 3-wheeler,483,medium
+2022,feb,maharashtra,truck,light truck,6,low
+2025,jan,assam,3-wheeler,auto rickshaw,426,medium
+2024,aug,goa,bus,city bus,21,low
+2024,jan,kerala,4-wheeler,suv,297,low
+2024,dec,tamil nadu,truck,heavy truck,19,low
+2022,may,goa,2-wheeler,scooter,1551,high
+2023,jan,arunachal pradesh,truck,heavy truck,64,low
+2025,mar,arunachal pradesh,truck,light truck,23,low
+2021,oct,assam,3-wheeler,cargo 3-wheeler,132,low
+2025,apr,nagaland,truck,light truck,79,low
+2021,jul,rajasthan,truck,heavy truck,33,low
+2022,nov,sikkim,4-wheeler,car,276,low
+2024,mar,rajasthan,4-wheeler,suv,328,medium
+2021,jan,maharashtra,truck,light truck,9,low
+2025,apr,meghalaya,4-wheeler,car,362,medium
+2021,apr,karnataka,4-wheeler,car,453,medium
+2025,dec,himachal pradesh,truck,light truck,70,low
+2023,nov,bihar,3-wheeler,cargo 3-wheeler,128,low
+2021,dec,mizoram,3-wheeler,cargo 3-wheeler,298,low
+2025,apr,sikkim,4-wheeler,car,275,low
+2025,aug,haryana,2-wheeler,scooter,1319,high
+2024,may,arunachal pradesh,2-wheeler,motorcycle,1599,high
+2022,nov,haryana,3-wheeler,cargo 3-wheeler,574,medium
+2024,sep,andhra pradesh,2-wheeler,scooter,1435,high
+2022,sep,arunachal pradesh,4-wheeler,car,445,medium
+2022,jan,himachal pradesh,4-wheeler,car,371,medium
+2022,nov,gujarat,2-wheeler,motorcycle,1617,high
+2025,jul,odisha,3-wheeler,auto rickshaw,895,medium
+2022,mar,west bengal,bus,city bus,22,low
+2023,jul,tripura,3-wheeler,cargo 3-wheeler,173,low
+2021,jul,uttarakhand,2-wheeler,motorcycle,475,medium
+2022,aug,karnataka,4-wheeler,car,233,low
+2021,nov,goa,bus,intercity bus,35,low
+2021,may,karnataka,truck,heavy truck,68,low
+2023,jan,bihar,4-wheeler,car,599,medium
+2023,jan,bihar,truck,heavy truck,44,low
+2023,jul,odisha,truck,light truck,49,low
+2025,apr,haryana,2-wheeler,motorcycle,23,low
+2025,sep,rajasthan,3-wheeler,cargo 3-wheeler,451,medium
+2021,nov,jharkhand,truck,heavy truck,15,low
+2023,sep,himachal pradesh,bus,intercity bus,51,low
+2023,sep,chhattisgarh,3-wheeler,cargo 3-wheeler,690,medium
+2024,nov,tamil nadu,3-wheeler,cargo 3-wheeler,425,medium
+2025,jan,himachal pradesh,4-wheeler,car,445,medium
+2025,oct,punjab,4-wheeler,suv,457,medium
+2024,nov,goa,truck,heavy truck,21,low
+2021,may,meghalaya,truck,heavy truck,11,low
+2022,nov,himachal pradesh,3-wheeler,auto rickshaw,160,low
+2021,jan,gujarat,bus,city bus,58,low
+2024,nov,nagaland,3-wheeler,cargo 3-wheeler,516,medium
+2024,apr,chhattisgarh,2-wheeler,scooter,1614,high
+2024,apr,delhi,truck,heavy truck,6,low
+2025,apr,uttarakhand,2-wheeler,motorcycle,293,low
+2024,nov,meghalaya,truck,heavy truck,56,low
+2025,dec,west bengal,truck,heavy truck,70,low
+2024,mar,tamil nadu,bus,intercity bus,33,low
+2022,nov,haryana,truck,heavy truck,80,low
+2022,may,maharashtra,2-wheeler,motorcycle,500,medium
+2023,jun,jharkhand,truck,light truck,17,low
+2022,apr,kerala,3-wheeler,auto rickshaw,75,low
+2024,jul,jharkhand,truck,heavy truck,53,low
+2021,apr,uttar pradesh,bus,intercity bus,115,low
+2025,dec,andhra pradesh,truck,heavy truck,61,low
+2021,jun,himachal pradesh,bus,intercity bus,68,low
+2025,oct,west bengal,3-wheeler,cargo 3-wheeler,234,low
+2023,jul,manipur,2-wheeler,motorcycle,708,medium
+2024,dec,delhi,bus,city bus,79,low
+2025,jan,kerala,truck,light truck,10,low
+2024,mar,uttarakhand,bus,city bus,6,low
+2023,jul,jharkhand,3-wheeler,cargo 3-wheeler,344,medium
+2023,jul,haryana,bus,intercity bus,106,low
+2021,aug,andhra pradesh,truck,light truck,44,low
+2022,nov,assam,2-wheeler,scooter,526,medium
+2022,jan,odisha,3-wheeler,auto rickshaw,139,low
+2024,nov,bihar,truck,light truck,59,low
+2023,jun,delhi,truck,light truck,20,low
+2023,feb,nagaland,2-wheeler,motorcycle,1199,high
+2024,jul,sikkim,3-wheeler,auto rickshaw,616,medium
+2022,feb,sikkim,4-wheeler,car,584,medium
+2021,jun,mizoram,bus,intercity bus,8,low
+2025,nov,jharkhand,2-wheeler,motorcycle,1704,high
+2024,feb,madhya pradesh,4-wheeler,suv,161,low
+2024,mar,tamil nadu,truck,heavy truck,78,low
+2025,aug,maharashtra,bus,intercity bus,41,low
+2022,feb,haryana,bus,city bus,96,low
+2024,oct,odisha,bus,intercity bus,3,low
+2024,jun,delhi,bus,city bus,45,low
+2023,jun,haryana,truck,heavy truck,71,low
+2021,sep,goa,2-wheeler,scooter,1494,high
+2024,aug,mizoram,3-wheeler,cargo 3-wheeler,671,medium
+2024,aug,tripura,2-wheeler,scooter,622,medium
+2022,jul,sikkim,3-wheeler,cargo 3-wheeler,689,medium
+2025,jun,manipur,truck,heavy truck,54,low
+2025,jun,karnataka,bus,intercity bus,39,low
+2023,apr,bihar,3-wheeler,cargo 3-wheeler,132,low
+2025,dec,delhi,3-wheeler,auto rickshaw,766,medium
+2024,may,tamil nadu,truck,heavy truck,12,low
+2022,may,gujarat,4-wheeler,car,314,medium
+2021,dec,mizoram,3-wheeler,cargo 3-wheeler,56,low
+2021,sep,himachal pradesh,3-wheeler,cargo 3-wheeler,115,low
+2021,oct,himachal pradesh,bus,intercity bus,56,low
+2023,mar,arunachal pradesh,4-wheeler,suv,121,low
+2021,jul,manipur,2-wheeler,scooter,330,medium
+2022,oct,himachal pradesh,2-wheeler,scooter,262,low
+2025,jul,odisha,truck,light truck,66,low
+2024,aug,maharashtra,4-wheeler,suv,317,medium
+2025,oct,arunachal pradesh,truck,light truck,26,low
+2022,may,rajasthan,2-wheeler,scooter,511,medium
+2022,sep,assam,3-wheeler,auto rickshaw,428,medium
+2024,dec,odisha,bus,intercity bus,4,low
+2022,may,sikkim,4-wheeler,suv,77,low
+2022,may,tripura,truck,light truck,54,low
+2021,sep,gujarat,3-wheeler,cargo 3-wheeler,856,medium
+2022,feb,arunachal pradesh,3-wheeler,cargo 3-wheeler,619,medium
+2025,may,maharashtra,2-wheeler,motorcycle,1430,high
+2023,dec,kerala,4-wheeler,suv,453,medium
+2021,oct,arunachal pradesh,bus,intercity bus,77,low
+2023,jan,assam,3-wheeler,auto rickshaw,793,medium
+2023,oct,arunachal pradesh,3-wheeler,cargo 3-wheeler,541,medium
+2024,may,delhi,truck,heavy truck,62,low
+2021,aug,karnataka,bus,intercity bus,41,low
+2021,mar,jharkhand,bus,intercity bus,36,low
+2024,sep,arunachal pradesh,bus,city bus,40,low
+2023,jun,bihar,bus,city bus,84,low
+2025,aug,madhya pradesh,2-wheeler,scooter,1081,high
+2023,oct,telangana,bus,intercity bus,97,low
+2021,apr,haryana,truck,light truck,36,low
+2024,dec,manipur,2-wheeler,scooter,1310,high
+2025,apr,sikkim,3-wheeler,cargo 3-wheeler,574,medium
+2021,sep,madhya pradesh,2-wheeler,scooter,1743,high
+2021,aug,bihar,3-wheeler,cargo 3-wheeler,743,medium
+2023,sep,sikkim,4-wheeler,suv,499,medium
+2024,apr,maharashtra,truck,light truck,49,low
+2022,oct,meghalaya,3-wheeler,auto rickshaw,292,low
+2024,jun,tripura,truck,heavy truck,0,low
+2023,dec,himachal pradesh,truck,heavy truck,19,low
+2024,sep,manipur,4-wheeler,suv,570,medium
+2025,jul,maharashtra,4-wheeler,car,249,low
+2025,jul,gujarat,bus,city bus,40,low
+2024,dec,tripura,bus,intercity bus,84,low
+2022,aug,arunachal pradesh,3-wheeler,cargo 3-wheeler,900,medium
+2021,aug,bihar,truck,heavy truck,1,low
+2022,jul,uttarakhand,3-wheeler,auto rickshaw,490,medium
+2023,jun,odisha,bus,city bus,109,low
+2023,nov,uttarakhand,truck,heavy truck,40,low
+2024,sep,arunachal pradesh,truck,light truck,30,low
+2023,apr,tamil nadu,2-wheeler,motorcycle,221,low
+2021,aug,delhi,4-wheeler,car,52,low
+2023,jan,himachal pradesh,4-wheeler,suv,446,medium
+2022,apr,meghalaya,bus,city bus,21,low
+2022,feb,odisha,bus,city bus,63,low
+2025,mar,gujarat,bus,intercity bus,58,low
+2023,nov,andhra pradesh,bus,intercity bus,86,low
+2025,mar,assam,bus,intercity bus,75,low
+2023,nov,madhya pradesh,4-wheeler,suv,314,medium
+2022,jul,uttarakhand,bus,city bus,30,low
+2024,oct,karnataka,truck,heavy truck,37,low
+2021,nov,kerala,4-wheeler,car,584,medium
+2021,oct,tamil nadu,bus,intercity bus,99,low
+2022,oct,tripura,4-wheeler,car,199,low
+2025,may,rajasthan,3-wheeler,auto rickshaw,652,medium
+2021,may,tripura,bus,city bus,74,low
+2023,dec,chhattisgarh,2-wheeler,motorcycle,689,medium
+2024,mar,goa,3-wheeler,cargo 3-wheeler,553,medium
+2025,may,uttar pradesh,3-wheeler,cargo 3-wheeler,854,medium
+2024,may,tamil nadu,4-wheeler,car,484,medium
+2021,mar,telangana,3-wheeler,cargo 3-wheeler,876,medium
+2025,jun,assam,bus,city bus,33,low
+2025,feb,maharashtra,4-wheeler,suv,603,medium
+2024,nov,karnataka,2-wheeler,scooter,985,medium
+2021,oct,west bengal,truck,heavy truck,78,low
+2022,nov,assam,bus,intercity bus,83,low
+2024,feb,chhattisgarh,2-wheeler,scooter,643,medium
+2024,feb,bihar,3-wheeler,auto rickshaw,407,medium
+2024,jun,rajasthan,truck,heavy truck,75,low
+2022,jul,punjab,2-wheeler,motorcycle,1280,high
+2024,may,arunachal pradesh,4-wheeler,car,459,medium
+2024,apr,uttarakhand,4-wheeler,car,381,medium
+2025,nov,karnataka,2-wheeler,motorcycle,585,medium
+2022,feb,uttarakhand,bus,city bus,84,low
+2022,nov,punjab,truck,light truck,6,low
+2023,apr,chhattisgarh,truck,light truck,8,low
+2025,apr,nagaland,3-wheeler,auto rickshaw,346,medium
+2022,oct,andhra pradesh,4-wheeler,car,138,low
+2025,may,tripura,3-wheeler,auto rickshaw,686,medium
+2021,mar,andhra pradesh,4-wheeler,car,607,medium
+2023,jan,delhi,4-wheeler,car,134,low
+2024,sep,bihar,2-wheeler,motorcycle,938,medium
+2023,sep,nagaland,2-wheeler,motorcycle,1051,high
+2022,oct,arunachal pradesh,truck,heavy truck,58,low
+2021,jan,manipur,bus,intercity bus,87,low
+2021,aug,sikkim,bus,city bus,115,low
+2021,jun,odisha,3-wheeler,auto rickshaw,139,low
+2023,oct,punjab,truck,heavy truck,48,low
+2025,sep,himachal pradesh,bus,intercity bus,12,low
+2021,nov,punjab,truck,light truck,55,low
+2024,apr,madhya pradesh,4-wheeler,suv,413,medium
+2024,dec,bihar,4-wheeler,suv,325,medium
+2023,jun,chhattisgarh,bus,city bus,11,low
+2021,feb,madhya pradesh,2-wheeler,motorcycle,1682,high
+2022,sep,arunachal pradesh,truck,heavy truck,15,low
+2024,jun,uttarakhand,bus,city bus,36,low
+2025,may,karnataka,2-wheeler,scooter,336,medium
+2024,apr,uttarakhand,2-wheeler,motorcycle,1751,high
+2025,jun,bihar,4-wheeler,car,444,medium
+2025,oct,odisha,truck,light truck,77,low
+2023,jan,delhi,4-wheeler,suv,352,medium
+2023,jan,delhi,3-wheeler,cargo 3-wheeler,81,low
+2022,dec,punjab,2-wheeler,scooter,1548,high
+2025,apr,kerala,bus,intercity bus,43,low
+2022,jun,himachal pradesh,4-wheeler,car,58,low
+2022,mar,telangana,truck,light truck,10,low
+2023,aug,rajasthan,bus,intercity bus,77,low
+2024,jul,haryana,3-wheeler,auto rickshaw,363,medium
+2024,feb,himachal pradesh,truck,heavy truck,67,low
+2023,jan,gujarat,bus,city bus,0,low
+2022,may,goa,3-wheeler,cargo 3-wheeler,306,medium
+2023,feb,andhra pradesh,bus,intercity bus,22,low
+2022,jul,mizoram,3-wheeler,cargo 3-wheeler,83,low
+2024,dec,arunachal pradesh,bus,city bus,58,low
+2021,jun,nagaland,bus,intercity bus,90,low
+2024,may,bihar,bus,city bus,41,low
+2022,oct,maharashtra,4-wheeler,car,452,medium
+2021,apr,madhya pradesh,truck,heavy truck,67,low
+2021,jul,uttarakhand,4-wheeler,suv,231,low
+2023,mar,assam,truck,light truck,67,low
+2025,apr,west bengal,4-wheeler,suv,156,low
+2022,feb,chhattisgarh,4-wheeler,car,182,low
+2025,mar,telangana,2-wheeler,scooter,1602,high
+2024,aug,telangana,truck,heavy truck,72,low
+2025,jun,uttarakhand,4-wheeler,car,455,medium
+2021,aug,maharashtra,4-wheeler,suv,610,medium
+2021,jun,meghalaya,2-wheeler,motorcycle,965,medium
+2024,jan,arunachal pradesh,4-wheeler,suv,83,low
+2021,oct,odisha,truck,heavy truck,59,low
+2025,sep,tripura,2-wheeler,motorcycle,1678,high
+2025,nov,goa,4-wheeler,suv,518,medium
+2022,jan,maharashtra,2-wheeler,motorcycle,1482,high
+2021,sep,punjab,3-wheeler,auto rickshaw,263,low
+2024,aug,meghalaya,truck,light truck,46,low
+2023,may,kerala,bus,intercity bus,86,low
+2025,jan,tripura,4-wheeler,car,342,medium
+2021,sep,rajasthan,bus,intercity bus,32,low
+2025,mar,jharkhand,2-wheeler,scooter,736,medium
+2023,nov,sikkim,bus,city bus,76,low
+2021,may,mizoram,bus,intercity bus,104,low
+2022,nov,sikkim,truck,light truck,54,low
+2025,jun,andhra pradesh,4-wheeler,suv,189,low
+2022,jun,telangana,bus,city bus,28,low
+2022,mar,assam,4-wheeler,car,524,medium
+2025,dec,west bengal,truck,light truck,43,low
+2025,mar,odisha,bus,city bus,20,low
+2022,dec,telangana,truck,light truck,56,low
+2021,jul,karnataka,3-wheeler,cargo 3-wheeler,635,medium
+2023,dec,tripura,bus,city bus,68,low
+2022,may,tripura,bus,city bus,47,low
+2025,aug,maharashtra,4-wheeler,suv,519,medium
+2025,jul,delhi,3-wheeler,auto rickshaw,266,low
+2021,nov,manipur,4-wheeler,car,533,medium
+2021,may,assam,3-wheeler,cargo 3-wheeler,470,medium
+2025,mar,uttar pradesh,bus,city bus,116,low
+2022,aug,west bengal,4-wheeler,car,429,medium
+2021,jul,meghalaya,4-wheeler,car,400,medium
+2021,jun,gujarat,2-wheeler,motorcycle,222,low
+2023,mar,chhattisgarh,2-wheeler,motorcycle,1719,high
+2024,dec,uttar pradesh,3-wheeler,cargo 3-wheeler,469,medium
+2025,jan,west bengal,2-wheeler,scooter,544,medium
+2022,mar,mizoram,truck,heavy truck,14,low
+2023,apr,himachal pradesh,2-wheeler,scooter,508,medium
+2024,nov,tripura,truck,heavy truck,8,low
+2021,aug,odisha,truck,light truck,80,low
+2025,oct,gujarat,3-wheeler,cargo 3-wheeler,449,medium
+2021,oct,karnataka,3-wheeler,cargo 3-wheeler,201,low
+2021,sep,karnataka,2-wheeler,scooter,819,medium
+2024,jan,punjab,bus,intercity bus,32,low
+2021,jun,tripura,2-wheeler,motorcycle,513,medium
+2021,oct,tamil nadu,4-wheeler,car,50,low
+2023,sep,jharkhand,3-wheeler,cargo 3-wheeler,722,medium
+2024,nov,delhi,3-wheeler,auto rickshaw,743,medium
+2024,jan,himachal pradesh,3-wheeler,auto rickshaw,820,medium
+2022,jan,jharkhand,4-wheeler,suv,561,medium
+2024,may,arunachal pradesh,3-wheeler,cargo 3-wheeler,375,medium
+2021,nov,jharkhand,4-wheeler,car,381,medium
+2024,jul,tamil nadu,bus,intercity bus,43,low
+2022,aug,sikkim,bus,intercity bus,118,low
+2025,may,tripura,2-wheeler,motorcycle,181,low
+2024,oct,uttar pradesh,3-wheeler,cargo 3-wheeler,338,medium
+2021,feb,jharkhand,4-wheeler,suv,461,medium
+2025,dec,madhya pradesh,3-wheeler,cargo 3-wheeler,369,medium
+2024,jan,tamil nadu,4-wheeler,suv,286,low
+2021,feb,rajasthan,bus,intercity bus,65,low
+2022,jan,chhattisgarh,truck,heavy truck,4,low
+2022,feb,gujarat,4-wheeler,suv,397,medium
+2025,jan,odisha,3-wheeler,cargo 3-wheeler,389,medium
+2023,aug,telangana,2-wheeler,scooter,1104,high
+2023,jul,jharkhand,4-wheeler,car,121,low
+2021,dec,delhi,bus,intercity bus,116,low
+2025,feb,haryana,4-wheeler,suv,224,low
+2025,may,sikkim,bus,city bus,15,low
+2022,feb,maharashtra,3-wheeler,cargo 3-wheeler,99,low
+2023,nov,karnataka,2-wheeler,motorcycle,634,medium
+2022,dec,sikkim,3-wheeler,cargo 3-wheeler,530,medium
+2022,feb,goa,3-wheeler,auto rickshaw,819,medium
+2024,jan,karnataka,truck,heavy truck,59,low
+2025,mar,odisha,2-wheeler,scooter,653,medium
+2024,dec,tamil nadu,bus,intercity bus,98,low
+2024,oct,assam,3-wheeler,cargo 3-wheeler,667,medium
+2021,aug,maharashtra,truck,heavy truck,16,low
+2025,nov,nagaland,3-wheeler,auto rickshaw,453,medium
+2025,jan,uttar pradesh,2-wheeler,scooter,642,medium
+2022,mar,jharkhand,3-wheeler,cargo 3-wheeler,541,medium
+2023,feb,haryana,3-wheeler,cargo 3-wheeler,138,low
+2023,oct,mizoram,2-wheeler,scooter,1232,high
+2025,mar,delhi,truck,heavy truck,72,low
+2021,jan,assam,2-wheeler,motorcycle,1353,high
+2022,oct,madhya pradesh,truck,light truck,63,low
+2025,may,punjab,4-wheeler,suv,255,low
+2024,may,maharashtra,2-wheeler,scooter,343,medium
+2024,jul,manipur,bus,city bus,43,low
+2025,mar,jharkhand,4-wheeler,suv,413,medium
+2022,jun,meghalaya,truck,light truck,40,low
+2022,aug,bihar,4-wheeler,suv,258,low
+2022,feb,arunachal pradesh,4-wheeler,suv,635,medium
+2024,apr,uttarakhand,3-wheeler,cargo 3-wheeler,601,medium
+2023,apr,telangana,3-wheeler,cargo 3-wheeler,537,medium
+2024,aug,west bengal,4-wheeler,suv,28,low
+2021,jul,meghalaya,bus,city bus,27,low
+2025,jun,arunachal pradesh,2-wheeler,motorcycle,1033,high
+2025,nov,rajasthan,bus,intercity bus,68,low
+2021,feb,madhya pradesh,3-wheeler,cargo 3-wheeler,754,medium
+2023,jul,karnataka,2-wheeler,motorcycle,124,low
+2025,sep,goa,4-wheeler,suv,80,low
+2024,sep,maharashtra,truck,heavy truck,79,low
+2025,feb,chhattisgarh,2-wheeler,motorcycle,784,medium
+2023,sep,karnataka,3-wheeler,auto rickshaw,626,medium
+2025,jul,meghalaya,2-wheeler,scooter,99,low
+2022,dec,jharkhand,bus,intercity bus,19,low
+2025,sep,chhattisgarh,4-wheeler,suv,171,low
+2024,oct,tamil nadu,4-wheeler,suv,524,medium
+2025,sep,manipur,truck,heavy truck,60,low
+2021,jun,jharkhand,2-wheeler,motorcycle,1215,high
+2023,dec,uttarakhand,2-wheeler,motorcycle,563,medium
+2025,oct,gujarat,2-wheeler,motorcycle,369,medium
+2025,nov,tamil nadu,truck,heavy truck,18,low
+2022,jan,nagaland,2-wheeler,scooter,58,low
+2024,jun,madhya pradesh,3-wheeler,cargo 3-wheeler,717,medium
+2022,jul,meghalaya,truck,heavy truck,7,low
+2022,sep,goa,truck,heavy truck,61,low
+2025,jul,jharkhand,3-wheeler,cargo 3-wheeler,555,medium
+2023,sep,karnataka,4-wheeler,suv,201,low
+2022,may,mizoram,4-wheeler,car,309,medium
+2023,dec,goa,bus,intercity bus,61,low
+2023,sep,tripura,4-wheeler,suv,129,low
+2025,nov,mizoram,bus,intercity bus,104,low
+2023,mar,himachal pradesh,2-wheeler,motorcycle,1482,high
+2021,jun,maharashtra,4-wheeler,suv,224,low
+2022,sep,haryana,truck,heavy truck,17,low
+2021,oct,tamil nadu,truck,light truck,31,low
+2021,nov,west bengal,truck,light truck,29,low
+2021,feb,madhya pradesh,4-wheeler,suv,107,low
+2022,jan,mizoram,3-wheeler,cargo 3-wheeler,678,medium
+2024,aug,punjab,3-wheeler,cargo 3-wheeler,338,medium
+2023,nov,arunachal pradesh,2-wheeler,scooter,1115,high
+2021,mar,madhya pradesh,3-wheeler,auto rickshaw,866,medium
+2024,aug,delhi,4-wheeler,car,14,low
+2023,oct,odisha,2-wheeler,motorcycle,602,medium
+2024,nov,mizoram,truck,heavy truck,17,low
+2025,aug,haryana,3-wheeler,auto rickshaw,348,medium
+2022,dec,maharashtra,4-wheeler,car,19,low
+2023,may,nagaland,3-wheeler,auto rickshaw,635,medium
+2024,jul,meghalaya,4-wheeler,car,415,medium
+2021,mar,chhattisgarh,bus,intercity bus,119,low
+2022,jan,haryana,bus,city bus,57,low
+2023,jun,himachal pradesh,truck,light truck,33,low
+2023,dec,gujarat,2-wheeler,scooter,973,medium
+2023,mar,kerala,truck,heavy truck,15,low
+2023,jun,odisha,3-wheeler,auto rickshaw,146,low
+2024,mar,maharashtra,truck,heavy truck,53,low
+2025,aug,telangana,truck,light truck,31,low
+2025,feb,meghalaya,bus,intercity bus,9,low
+2025,feb,arunachal pradesh,truck,light truck,73,low
+2025,mar,delhi,4-wheeler,suv,124,low
+2022,dec,nagaland,bus,city bus,115,low
+2025,aug,tripura,2-wheeler,motorcycle,290,low
+2025,jul,maharashtra,truck,light truck,71,low
+2024,nov,tripura,4-wheeler,car,410,medium
+2023,jan,tamil nadu,3-wheeler,auto rickshaw,56,low
+2024,jun,sikkim,2-wheeler,scooter,161,low
+2024,jan,himachal pradesh,bus,city bus,98,low
+2022,nov,tamil nadu,bus,intercity bus,114,low
+2024,aug,uttarakhand,bus,intercity bus,10,low
+2025,mar,punjab,4-wheeler,car,187,low
+2025,jul,meghalaya,3-wheeler,auto rickshaw,864,medium
+2021,jan,himachal pradesh,bus,intercity bus,68,low
+2024,apr,gujarat,bus,intercity bus,19,low
+2023,apr,west bengal,2-wheeler,scooter,1677,high
+2024,oct,telangana,2-wheeler,scooter,442,medium
+2021,feb,odisha,2-wheeler,motorcycle,1244,high
+2021,apr,tamil nadu,2-wheeler,motorcycle,918,medium
+2022,sep,goa,2-wheeler,scooter,1051,high
+2023,apr,uttar pradesh,truck,heavy truck,73,low
+2025,nov,uttar pradesh,4-wheeler,car,314,medium
+2022,nov,meghalaya,3-wheeler,cargo 3-wheeler,317,medium
+2023,jan,mizoram,truck,light truck,80,low
+2024,sep,manipur,2-wheeler,motorcycle,1337,high
+2024,sep,jharkhand,bus,intercity bus,19,low
+2023,jul,delhi,truck,heavy truck,30,low
+2022,may,uttarakhand,3-wheeler,cargo 3-wheeler,69,low
+2025,jul,madhya pradesh,truck,light truck,49,low
+2022,may,goa,4-wheeler,car,465,medium
+2023,feb,mizoram,3-wheeler,auto rickshaw,284,low
+2024,nov,odisha,truck,light truck,9,low
+2022,oct,tamil nadu,truck,light truck,61,low
+2022,jun,himachal pradesh,2-wheeler,scooter,409,medium
+2021,dec,telangana,bus,city bus,89,low
+2025,dec,goa,bus,city bus,70,low
+2023,may,kerala,bus,intercity bus,39,low
+2023,jun,meghalaya,bus,intercity bus,12,low
+2024,jun,goa,4-wheeler,suv,428,medium
+2021,oct,uttarakhand,3-wheeler,auto rickshaw,26,low
+2023,sep,nagaland,truck,heavy truck,37,low
+2022,apr,jharkhand,3-wheeler,cargo 3-wheeler,593,medium
+2022,aug,mizoram,4-wheeler,suv,505,medium
+2024,aug,delhi,4-wheeler,car,148,low
+2025,aug,delhi,truck,light truck,67,low
+2021,feb,uttar pradesh,2-wheeler,scooter,864,medium
+2022,nov,gujarat,2-wheeler,scooter,38,low
+2022,sep,maharashtra,4-wheeler,car,637,medium
+2025,aug,rajasthan,bus,city bus,0,low
+2025,sep,madhya pradesh,2-wheeler,scooter,1104,high
+2023,sep,himachal pradesh,2-wheeler,motorcycle,1671,high
+2022,feb,bihar,truck,light truck,30,low
+2022,oct,meghalaya,4-wheeler,suv,278,low
+2024,feb,karnataka,bus,intercity bus,72,low
+2022,dec,gujarat,4-wheeler,car,37,low
+2021,jul,kerala,bus,intercity bus,7,low
+2021,dec,delhi,2-wheeler,motorcycle,1751,high
+2024,nov,tripura,4-wheeler,car,545,medium
+2021,apr,goa,truck,heavy truck,34,low
+2021,feb,rajasthan,4-wheeler,car,188,low
+2023,jan,goa,truck,light truck,50,low
+2021,may,delhi,truck,light truck,72,low
+2024,nov,west bengal,truck,heavy truck,49,low
+2022,dec,tamil nadu,2-wheeler,motorcycle,129,low
+2021,jul,gujarat,2-wheeler,motorcycle,1259,high
+2025,oct,kerala,4-wheeler,car,284,low
+2024,aug,gujarat,4-wheeler,suv,447,medium
+2022,nov,nagaland,bus,city bus,98,low
+2025,may,tripura,3-wheeler,auto rickshaw,94,low
+2023,mar,kerala,3-wheeler,cargo 3-wheeler,334,medium
+2023,feb,assam,2-wheeler,motorcycle,930,medium
+2023,may,bihar,3-wheeler,auto rickshaw,201,low
+2024,aug,mizoram,truck,heavy truck,13,low
+2021,feb,karnataka,truck,light truck,76,low
+2025,jun,uttarakhand,bus,city bus,37,low
+2024,jul,telangana,2-wheeler,scooter,1191,high
+2025,mar,rajasthan,bus,city bus,17,low
+2023,may,haryana,bus,city bus,8,low
+2022,jul,haryana,bus,intercity bus,61,low
+2021,jun,haryana,3-wheeler,cargo 3-wheeler,618,medium
+2025,apr,maharashtra,2-wheeler,scooter,643,medium
+2021,jul,jharkhand,truck,heavy truck,42,low
+2024,jun,madhya pradesh,truck,light truck,38,low
+2023,oct,sikkim,3-wheeler,cargo 3-wheeler,331,medium
+2022,jul,jharkhand,4-wheeler,suv,594,medium
+2022,jun,kerala,4-wheeler,suv,378,medium
+2021,oct,goa,truck,light truck,70,low
+2021,dec,maharashtra,3-wheeler,cargo 3-wheeler,826,medium
+2023,dec,assam,bus,intercity bus,17,low
+2023,apr,haryana,3-wheeler,cargo 3-wheeler,818,medium
+2024,feb,maharashtra,truck,heavy truck,74,low
+2024,sep,meghalaya,bus,city bus,101,low
+2023,dec,west bengal,truck,light truck,13,low
+2022,nov,rajasthan,4-wheeler,car,632,medium
+2021,oct,punjab,bus,intercity bus,101,low
+2024,feb,andhra pradesh,2-wheeler,motorcycle,474,medium
+2025,dec,meghalaya,truck,light truck,57,low
+2023,jul,maharashtra,truck,light truck,44,low
+2021,aug,bihar,4-wheeler,suv,92,low
+2021,dec,chhattisgarh,4-wheeler,suv,356,medium
+2024,apr,meghalaya,bus,intercity bus,60,low
+2021,aug,tamil nadu,bus,intercity bus,8,low
+2023,jan,tripura,2-wheeler,scooter,1759,high
+2023,nov,bihar,3-wheeler,auto rickshaw,538,medium
+2022,sep,delhi,4-wheeler,suv,478,medium
+2022,jul,punjab,3-wheeler,auto rickshaw,665,medium
+2024,jul,andhra pradesh,truck,light truck,57,low
+2025,jul,kerala,2-wheeler,scooter,441,medium
+2023,dec,tripura,2-wheeler,scooter,1657,high
+2025,mar,karnataka,4-wheeler,car,473,medium
+2021,may,rajasthan,bus,intercity bus,76,low
+2024,oct,kerala,truck,light truck,44,low
+2023,aug,odisha,3-wheeler,cargo 3-wheeler,639,medium
+2025,feb,rajasthan,3-wheeler,cargo 3-wheeler,130,low
+2022,may,bihar,3-wheeler,cargo 3-wheeler,720,medium
+2022,sep,kerala,bus,city bus,73,low
+2024,jul,delhi,bus,city bus,71,low
+2022,aug,himachal pradesh,3-wheeler,auto rickshaw,332,medium
+2024,oct,arunachal pradesh,4-wheeler,car,501,medium
+2022,apr,uttar pradesh,bus,intercity bus,52,low
+2024,jul,sikkim,bus,intercity bus,21,low
+2021,oct,andhra pradesh,3-wheeler,cargo 3-wheeler,43,low
+2023,apr,mizoram,4-wheeler,car,473,medium
+2025,dec,telangana,bus,city bus,73,low
+2021,may,telangana,truck,heavy truck,69,low
+2021,dec,maharashtra,truck,light truck,54,low
+2021,dec,uttar pradesh,3-wheeler,cargo 3-wheeler,43,low
+2024,may,karnataka,2-wheeler,motorcycle,1792,high
+2021,apr,goa,truck,heavy truck,78,low
+2024,mar,odisha,3-wheeler,auto rickshaw,843,medium
+2022,jan,nagaland,4-wheeler,suv,616,medium
+2025,mar,jharkhand,4-wheeler,suv,591,medium
+2023,sep,west bengal,2-wheeler,scooter,1556,high
+2024,jan,haryana,3-wheeler,auto rickshaw,265,low
+2022,dec,jharkhand,3-wheeler,cargo 3-wheeler,511,medium
+2022,oct,punjab,4-wheeler,suv,389,medium
+2024,feb,punjab,2-wheeler,motorcycle,1075,high
+2023,dec,west bengal,4-wheeler,suv,504,medium
+2023,oct,andhra pradesh,2-wheeler,motorcycle,1320,high
+2023,feb,tripura,truck,heavy truck,27,low
+2024,apr,manipur,4-wheeler,suv,295,low
+2023,sep,nagaland,3-wheeler,cargo 3-wheeler,817,medium
+2023,nov,telangana,2-wheeler,scooter,223,low
+2024,jan,bihar,3-wheeler,cargo 3-wheeler,477,medium
+2021,jul,goa,3-wheeler,cargo 3-wheeler,172,low
+2023,feb,punjab,4-wheeler,suv,89,low
+2023,nov,west bengal,3-wheeler,auto rickshaw,415,medium
+2023,dec,sikkim,3-wheeler,cargo 3-wheeler,681,medium
+2021,dec,bihar,2-wheeler,scooter,996,medium
+2021,mar,nagaland,3-wheeler,cargo 3-wheeler,19,low
+2021,dec,jharkhand,2-wheeler,motorcycle,1441,high
+2022,aug,assam,3-wheeler,cargo 3-wheeler,101,low
+2021,feb,jharkhand,4-wheeler,suv,145,low
+2024,mar,punjab,3-wheeler,auto rickshaw,553,medium
+2025,jan,odisha,3-wheeler,cargo 3-wheeler,369,medium
+2022,nov,tamil nadu,3-wheeler,cargo 3-wheeler,640,medium
+2024,apr,assam,2-wheeler,scooter,1561,high
+2021,oct,tamil nadu,bus,intercity bus,54,low
+2023,mar,gujarat,4-wheeler,car,259,low
+2025,oct,odisha,truck,heavy truck,3,low
+2023,apr,meghalaya,truck,light truck,50,low
+2023,nov,arunachal pradesh,3-wheeler,cargo 3-wheeler,405,medium
+2021,apr,manipur,truck,light truck,67,low
+2021,jun,jharkhand,3-wheeler,cargo 3-wheeler,891,medium
+2025,jul,karnataka,truck,light truck,60,low
+2021,jan,nagaland,2-wheeler,scooter,556,medium
+2022,jan,arunachal pradesh,bus,intercity bus,80,low
+2025,jul,madhya pradesh,bus,city bus,81,low
+2025,sep,odisha,3-wheeler,cargo 3-wheeler,95,low
+2023,feb,meghalaya,3-wheeler,auto rickshaw,559,medium
+2023,jul,nagaland,2-wheeler,motorcycle,1450,high
+2024,dec,uttarakhand,3-wheeler,auto rickshaw,260,low
+2021,jul,bihar,bus,city bus,39,low
+2022,feb,andhra pradesh,3-wheeler,auto rickshaw,177,low
+2024,jun,meghalaya,truck,heavy truck,21,low
+2023,mar,tamil nadu,4-wheeler,car,35,low
+2023,jul,haryana,truck,light truck,33,low
+2025,nov,assam,bus,intercity bus,65,low
+2023,jan,manipur,truck,light truck,47,low
+2022,may,telangana,2-wheeler,scooter,487,medium
+2025,jan,arunachal pradesh,2-wheeler,scooter,114,low
+2024,jun,kerala,3-wheeler,auto rickshaw,888,medium
+2021,sep,tripura,bus,city bus,41,low
+2022,jul,tamil nadu,4-wheeler,suv,84,low
+2025,jun,bihar,truck,light truck,22,low
+2022,sep,arunachal pradesh,bus,city bus,112,low
+2024,may,telangana,4-wheeler,suv,93,low
+2025,aug,andhra pradesh,4-wheeler,car,303,medium
+2025,may,tamil nadu,truck,light truck,59,low
+2023,oct,manipur,3-wheeler,auto rickshaw,164,low
+2021,jul,andhra pradesh,3-wheeler,cargo 3-wheeler,661,medium
+2021,jun,andhra pradesh,bus,intercity bus,13,low
+2022,sep,gujarat,bus,intercity bus,7,low
+2022,dec,haryana,2-wheeler,scooter,494,medium
+2025,jul,sikkim,4-wheeler,suv,91,low
+2025,feb,meghalaya,3-wheeler,cargo 3-wheeler,86,low
+2025,oct,arunachal pradesh,bus,city bus,30,low
+2023,may,uttarakhand,4-wheeler,suv,339,medium
+2023,aug,haryana,3-wheeler,auto rickshaw,217,low
+2022,oct,bihar,3-wheeler,auto rickshaw,178,low
+2024,aug,jharkhand,bus,city bus,68,low
+2023,apr,maharashtra,4-wheeler,suv,276,low
+2021,feb,delhi,4-wheeler,car,225,low
+2023,mar,assam,3-wheeler,cargo 3-wheeler,415,medium
+2025,jan,rajasthan,4-wheeler,suv,183,low
+2021,jul,uttarakhand,bus,city bus,12,low
+2024,feb,tripura,3-wheeler,auto rickshaw,22,low
+2021,apr,chhattisgarh,3-wheeler,cargo 3-wheeler,391,medium
+2021,oct,nagaland,4-wheeler,car,27,low
+2021,apr,west bengal,bus,city bus,11,low
+2023,feb,arunachal pradesh,bus,city bus,21,low
+2025,jul,uttar pradesh,bus,intercity bus,3,low
+2024,nov,madhya pradesh,3-wheeler,cargo 3-wheeler,229,low
+2022,may,haryana,bus,city bus,4,low
+2025,oct,odisha,3-wheeler,cargo 3-wheeler,520,medium
+2024,sep,manipur,2-wheeler,scooter,592,medium
+2024,mar,madhya pradesh,3-wheeler,auto rickshaw,655,medium
+2025,jan,kerala,4-wheeler,suv,562,medium
+2024,jun,nagaland,truck,heavy truck,49,low
+2023,mar,andhra pradesh,4-wheeler,car,35,low
+2023,jan,tripura,bus,intercity bus,98,low
+2025,apr,delhi,2-wheeler,scooter,1365,high
+2022,may,mizoram,2-wheeler,scooter,1199,high
+2024,jun,uttar pradesh,3-wheeler,auto rickshaw,252,low
+2025,jun,tripura,4-wheeler,car,365,medium
+2025,oct,chhattisgarh,truck,light truck,63,low
+2025,may,delhi,bus,city bus,11,low
+2021,apr,odisha,3-wheeler,auto rickshaw,549,medium
+2024,jan,jharkhand,truck,light truck,16,low
+2023,dec,delhi,4-wheeler,car,27,low
+2022,oct,sikkim,3-wheeler,auto rickshaw,876,medium
+2025,jun,assam,4-wheeler,suv,605,medium
+2021,jun,himachal pradesh,4-wheeler,car,166,low
+2024,nov,manipur,4-wheeler,car,580,medium
+2025,jun,gujarat,truck,light truck,48,low
+2023,dec,sikkim,4-wheeler,car,186,low
+2021,dec,nagaland,bus,city bus,23,low
+2025,jun,tripura,truck,light truck,72,low
+2021,aug,chhattisgarh,4-wheeler,car,248,low
+2023,jun,delhi,2-wheeler,motorcycle,934,medium
+2021,may,goa,3-wheeler,auto rickshaw,368,medium
+2023,feb,tamil nadu,2-wheeler,scooter,810,medium
+2024,dec,madhya pradesh,3-wheeler,cargo 3-wheeler,514,medium
+2024,jun,mizoram,bus,city bus,106,low
+2024,oct,punjab,3-wheeler,auto rickshaw,472,medium
+2021,jan,himachal pradesh,2-wheeler,motorcycle,554,medium
+2021,feb,jharkhand,3-wheeler,cargo 3-wheeler,174,low
+2021,sep,west bengal,2-wheeler,motorcycle,1236,high
+2025,aug,sikkim,2-wheeler,motorcycle,1358,high
+2022,oct,west bengal,bus,city bus,6,low
+2021,jun,goa,3-wheeler,cargo 3-wheeler,723,medium
+2025,dec,tamil nadu,truck,heavy truck,36,low
+2023,apr,bihar,2-wheeler,motorcycle,1190,high
+2025,aug,chhattisgarh,2-wheeler,motorcycle,27,low
+2024,feb,himachal pradesh,truck,heavy truck,25,low
+2021,jan,goa,3-wheeler,cargo 3-wheeler,93,low
+2024,feb,himachal pradesh,bus,intercity bus,62,low
+2023,feb,punjab,truck,heavy truck,23,low
+2023,jul,karnataka,3-wheeler,cargo 3-wheeler,55,low
+2023,aug,maharashtra,4-wheeler,car,280,low
+2025,jan,chhattisgarh,2-wheeler,scooter,1388,high
+2023,sep,madhya pradesh,truck,light truck,70,low
+2021,jul,uttar pradesh,truck,heavy truck,68,low
+2024,oct,west bengal,3-wheeler,cargo 3-wheeler,316,medium
+2021,jul,west bengal,2-wheeler,scooter,266,low
+2024,mar,delhi,3-wheeler,auto rickshaw,139,low
+2021,jul,assam,bus,city bus,105,low
+2022,oct,haryana,4-wheeler,car,94,low
+2024,sep,kerala,truck,heavy truck,35,low
+2025,aug,uttarakhand,2-wheeler,motorcycle,250,low
+2024,mar,chhattisgarh,truck,light truck,13,low
+2025,feb,tripura,4-wheeler,suv,425,medium
+2023,jul,punjab,bus,intercity bus,4,low
+2022,may,kerala,3-wheeler,cargo 3-wheeler,49,low
+2024,jun,sikkim,3-wheeler,auto rickshaw,773,medium
+2024,may,west bengal,4-wheeler,car,350,medium
+2023,may,haryana,bus,city bus,111,low
+2022,mar,himachal pradesh,bus,intercity bus,34,low
+2024,oct,punjab,2-wheeler,scooter,924,medium
+2022,jul,tamil nadu,bus,intercity bus,105,low
+2021,sep,tripura,3-wheeler,auto rickshaw,328,medium
+2025,jul,chhattisgarh,truck,light truck,22,low
+2022,apr,uttar pradesh,2-wheeler,scooter,87,low
+2024,jan,karnataka,3-wheeler,cargo 3-wheeler,387,medium
+2024,sep,kerala,2-wheeler,scooter,515,medium
+2023,aug,odisha,bus,city bus,111,low
+2024,oct,mizoram,4-wheeler,suv,172,low
+2023,dec,uttar pradesh,2-wheeler,motorcycle,76,low
+2024,jan,delhi,truck,light truck,28,low
+2022,nov,goa,4-wheeler,suv,530,medium
+2021,nov,andhra pradesh,bus,city bus,82,low
+2022,oct,tripura,2-wheeler,scooter,536,medium
+2025,may,sikkim,4-wheeler,suv,390,medium
+2023,aug,haryana,3-wheeler,cargo 3-wheeler,319,medium
+2025,oct,kerala,truck,light truck,0,low
+2025,nov,uttar pradesh,4-wheeler,suv,310,medium
+2021,aug,assam,4-wheeler,suv,337,medium
+2023,may,punjab,4-wheeler,car,158,low
+2025,apr,west bengal,2-wheeler,motorcycle,1372,high
+2023,nov,chhattisgarh,2-wheeler,motorcycle,625,medium
+2023,jul,kerala,bus,city bus,74,low
+2025,apr,jharkhand,3-wheeler,cargo 3-wheeler,697,medium
+2023,sep,himachal pradesh,3-wheeler,auto rickshaw,310,medium
+2021,aug,chhattisgarh,4-wheeler,car,348,medium
+2021,apr,karnataka,3-wheeler,cargo 3-wheeler,440,medium
+2023,jun,haryana,truck,heavy truck,59,low
+2021,aug,arunachal pradesh,truck,light truck,60,low
+2022,sep,bihar,bus,intercity bus,52,low
+2021,mar,chhattisgarh,3-wheeler,cargo 3-wheeler,429,medium
+2025,aug,chhattisgarh,4-wheeler,car,87,low
+2024,jun,punjab,3-wheeler,cargo 3-wheeler,659,medium
+2021,jan,maharashtra,4-wheeler,car,177,low
+2025,mar,manipur,2-wheeler,scooter,1278,high
+2024,nov,madhya pradesh,bus,intercity bus,61,low
+2024,jan,arunachal pradesh,truck,light truck,47,low
+2021,jun,telangana,truck,light truck,2,low
+2021,nov,tamil nadu,3-wheeler,auto rickshaw,720,medium
+2023,may,chhattisgarh,2-wheeler,motorcycle,1050,high
+2025,may,delhi,2-wheeler,scooter,630,medium
+2023,aug,tamil nadu,truck,heavy truck,55,low
+2022,jun,west bengal,bus,intercity bus,96,low
+2022,mar,tripura,bus,city bus,29,low
+2022,dec,chhattisgarh,3-wheeler,auto rickshaw,613,medium
+2025,mar,bihar,4-wheeler,car,389,medium
+2023,sep,odisha,2-wheeler,scooter,1375,high
+2021,nov,uttar pradesh,2-wheeler,scooter,1432,high
+2021,jul,maharashtra,bus,city bus,70,low
+2023,aug,sikkim,3-wheeler,auto rickshaw,721,medium
+2021,may,madhya pradesh,2-wheeler,motorcycle,1295,high
+2025,dec,chhattisgarh,bus,city bus,65,low
+2025,feb,himachal pradesh,2-wheeler,scooter,1039,high
+2022,oct,goa,4-wheeler,car,371,medium
+2024,may,delhi,2-wheeler,motorcycle,445,medium
+2024,jun,gujarat,2-wheeler,scooter,1395,high
+2021,feb,uttar pradesh,truck,heavy truck,19,low
+2021,sep,assam,2-wheeler,motorcycle,1339,high
+2022,aug,himachal pradesh,4-wheeler,suv,56,low
+2021,mar,uttarakhand,2-wheeler,motorcycle,757,medium
+2023,jul,tamil nadu,2-wheeler,scooter,1763,high
+2021,jan,uttarakhand,3-wheeler,auto rickshaw,346,medium
+2023,aug,odisha,4-wheeler,car,386,medium
+2023,mar,bihar,bus,intercity bus,58,low
+2023,jul,sikkim,bus,intercity bus,83,low
+2022,feb,chhattisgarh,2-wheeler,scooter,232,low
+2024,oct,manipur,truck,heavy truck,23,low
+2025,jul,telangana,4-wheeler,car,138,low
+2024,aug,bihar,bus,intercity bus,5,low
+2021,may,punjab,4-wheeler,car,542,medium
+2025,dec,nagaland,3-wheeler,cargo 3-wheeler,541,medium
+2025,dec,sikkim,truck,light truck,55,low
+2022,aug,karnataka,bus,city bus,107,low
+2025,oct,arunachal pradesh,2-wheeler,scooter,1055,high
+2024,aug,uttarakhand,3-wheeler,auto rickshaw,779,medium
+2024,jun,gujarat,4-wheeler,suv,56,low
+2025,apr,mizoram,bus,intercity bus,104,low
+2022,feb,maharashtra,bus,intercity bus,11,low
+2024,aug,jharkhand,2-wheeler,motorcycle,1546,high
+2021,feb,kerala,bus,city bus,71,low
+2025,jan,uttar pradesh,2-wheeler,motorcycle,1061,high
+2025,apr,punjab,bus,intercity bus,46,low
+2021,apr,uttarakhand,bus,intercity bus,71,low
+2025,oct,manipur,4-wheeler,suv,121,low
+2021,nov,gujarat,2-wheeler,motorcycle,747,medium
+2023,sep,meghalaya,4-wheeler,car,51,low
+2022,aug,chhattisgarh,bus,city bus,32,low
+2025,apr,goa,2-wheeler,motorcycle,461,medium
+2024,apr,sikkim,4-wheeler,car,429,medium
+2021,nov,uttar pradesh,truck,light truck,57,low
+2024,nov,nagaland,truck,light truck,63,low
+2021,sep,tamil nadu,2-wheeler,motorcycle,1737,high
+2025,aug,meghalaya,3-wheeler,auto rickshaw,758,medium
+2022,feb,kerala,truck,heavy truck,64,low
+2024,jul,odisha,3-wheeler,cargo 3-wheeler,417,medium
+2023,may,maharashtra,3-wheeler,auto rickshaw,432,medium
+2025,dec,west bengal,truck,heavy truck,70,low
+2023,dec,tamil nadu,truck,light truck,25,low
+2022,oct,sikkim,4-wheeler,suv,140,low
+2022,sep,mizoram,4-wheeler,car,365,medium
+2025,aug,nagaland,truck,heavy truck,68,low
+2023,jul,tripura,2-wheeler,scooter,71,low
+2024,mar,arunachal pradesh,2-wheeler,scooter,566,medium
+2022,may,rajasthan,4-wheeler,car,68,low
+2023,apr,telangana,truck,light truck,45,low
+2024,feb,odisha,truck,light truck,71,low
+2024,apr,meghalaya,4-wheeler,car,395,medium
+2024,jul,tripura,4-wheeler,car,18,low
+2023,apr,odisha,bus,city bus,116,low
+2023,oct,mizoram,truck,light truck,24,low
+2023,aug,delhi,2-wheeler,scooter,375,medium
+2025,feb,kerala,2-wheeler,motorcycle,591,medium
+2025,may,chhattisgarh,3-wheeler,cargo 3-wheeler,15,low
+2023,aug,sikkim,3-wheeler,auto rickshaw,167,low
+2023,oct,arunachal pradesh,truck,heavy truck,62,low
+2025,sep,karnataka,2-wheeler,motorcycle,1096,high
+2022,mar,meghalaya,2-wheeler,scooter,871,medium
+2025,sep,kerala,2-wheeler,motorcycle,473,medium
+2022,nov,jharkhand,4-wheeler,suv,305,medium
+2022,oct,meghalaya,bus,city bus,14,low
+2023,aug,gujarat,truck,light truck,5,low
+2023,jul,tripura,2-wheeler,motorcycle,545,medium
+2025,dec,himachal pradesh,2-wheeler,motorcycle,1073,high
+2025,aug,manipur,2-wheeler,motorcycle,1354,high
+2022,jun,meghalaya,2-wheeler,scooter,362,medium
+2025,sep,andhra pradesh,2-wheeler,scooter,1392,high
+2022,nov,madhya pradesh,2-wheeler,scooter,1121,high
+2024,nov,uttar pradesh,2-wheeler,scooter,68,low
+2024,dec,jharkhand,2-wheeler,scooter,170,low
+2021,mar,tripura,4-wheeler,car,593,medium
+2022,may,madhya pradesh,bus,intercity bus,80,low
+2024,jul,jharkhand,2-wheeler,motorcycle,1398,high
+2021,sep,andhra pradesh,truck,light truck,74,low
+2021,dec,uttarakhand,2-wheeler,motorcycle,1049,high
+2021,may,tripura,4-wheeler,car,293,low
+2024,jul,kerala,2-wheeler,motorcycle,340,medium
+2025,apr,chhattisgarh,bus,intercity bus,81,low
+2022,may,rajasthan,4-wheeler,car,571,medium
+2025,mar,bihar,2-wheeler,scooter,1192,high
+2025,jul,mizoram,truck,light truck,39,low
+2022,dec,tamil nadu,4-wheeler,car,427,medium
+2025,mar,delhi,3-wheeler,auto rickshaw,641,medium
+2023,apr,bihar,3-wheeler,auto rickshaw,881,medium
+2025,aug,punjab,truck,light truck,37,low
+2021,may,bihar,3-wheeler,cargo 3-wheeler,348,medium
+2023,mar,rajasthan,3-wheeler,auto rickshaw,301,medium
+2025,feb,west bengal,3-wheeler,cargo 3-wheeler,507,medium
+2024,jun,odisha,4-wheeler,car,584,medium
+2025,jun,tripura,4-wheeler,suv,177,low
+2021,jun,gujarat,3-wheeler,cargo 3-wheeler,293,low
+2023,mar,rajasthan,4-wheeler,suv,478,medium
+2024,jun,telangana,4-wheeler,suv,569,medium
+2021,mar,punjab,truck,light truck,35,low
+2022,sep,goa,4-wheeler,car,82,low
+2021,sep,punjab,2-wheeler,motorcycle,1595,high
+2025,apr,arunachal pradesh,truck,heavy truck,69,low
+2025,aug,punjab,3-wheeler,cargo 3-wheeler,411,medium
+2022,oct,tamil nadu,4-wheeler,car,480,medium
+2025,sep,assam,bus,intercity bus,64,low
+2021,nov,gujarat,truck,light truck,65,low
+2022,aug,delhi,3-wheeler,auto rickshaw,763,medium
+2024,jun,arunachal pradesh,3-wheeler,cargo 3-wheeler,247,low
+2021,may,karnataka,3-wheeler,auto rickshaw,694,medium
+2022,sep,tripura,4-wheeler,suv,485,medium
+2024,jan,arunachal pradesh,4-wheeler,car,538,medium
+2023,dec,haryana,truck,light truck,48,low
+2024,jun,nagaland,2-wheeler,motorcycle,790,medium
+2022,sep,kerala,4-wheeler,suv,503,medium
+2024,oct,andhra pradesh,truck,light truck,56,low
+2022,apr,assam,truck,heavy truck,27,low
+2022,mar,delhi,4-wheeler,car,240,low
+2024,jun,tamil nadu,2-wheeler,motorcycle,1402,high
+2024,aug,goa,truck,light truck,52,low
+2021,apr,arunachal pradesh,3-wheeler,auto rickshaw,147,low
+2025,jan,west bengal,truck,light truck,7,low
+2022,may,delhi,truck,heavy truck,76,low
+2025,nov,andhra pradesh,4-wheeler,car,226,low
+2024,oct,manipur,bus,city bus,28,low
+2024,oct,chhattisgarh,truck,light truck,79,low
+2025,may,delhi,4-wheeler,suv,615,medium
+2025,feb,gujarat,bus,intercity bus,16,low
+2021,jan,goa,truck,heavy truck,19,low
+2025,feb,delhi,bus,city bus,112,low
+2025,sep,telangana,2-wheeler,scooter,1007,high
+2022,oct,mizoram,2-wheeler,motorcycle,1089,high
+2024,jun,uttarakhand,2-wheeler,motorcycle,489,medium
+2024,jul,karnataka,truck,light truck,54,low
+2022,may,manipur,3-wheeler,auto rickshaw,300,medium
+2025,sep,madhya pradesh,4-wheeler,car,10,low
+2021,oct,meghalaya,2-wheeler,scooter,788,medium
+2022,dec,tripura,4-wheeler,suv,375,medium
+2021,mar,madhya pradesh,truck,heavy truck,33,low
+2025,jul,nagaland,4-wheeler,suv,411,medium
+2022,jul,mizoram,truck,heavy truck,22,low
+2023,sep,mizoram,bus,intercity bus,39,low
+2025,jun,telangana,bus,city bus,109,low
+2021,dec,gujarat,bus,city bus,12,low
+2022,sep,kerala,4-wheeler,car,169,low
+2024,nov,andhra pradesh,2-wheeler,scooter,985,medium
+2025,jul,assam,2-wheeler,motorcycle,474,medium
+2023,feb,odisha,2-wheeler,motorcycle,840,medium
+2025,nov,meghalaya,4-wheeler,car,184,low
+2024,aug,andhra pradesh,3-wheeler,cargo 3-wheeler,209,low
+2021,oct,meghalaya,truck,light truck,78,low
+2022,nov,arunachal pradesh,4-wheeler,car,5,low
+2022,feb,haryana,bus,intercity bus,85,low
+2024,jul,nagaland,3-wheeler,auto rickshaw,764,medium
+2021,feb,mizoram,4-wheeler,suv,360,medium
+2023,apr,odisha,3-wheeler,cargo 3-wheeler,423,medium
+2025,jan,haryana,3-wheeler,cargo 3-wheeler,528,medium
+2021,sep,assam,truck,heavy truck,43,low
+2021,sep,haryana,truck,heavy truck,56,low
+2024,oct,manipur,3-wheeler,cargo 3-wheeler,804,medium
+2024,nov,maharashtra,truck,light truck,61,low
+2021,may,assam,bus,city bus,86,low
+2022,jun,madhya pradesh,4-wheeler,car,274,low
+2022,may,assam,bus,intercity bus,9,low
+2025,mar,manipur,4-wheeler,suv,228,low
+2025,may,delhi,3-wheeler,cargo 3-wheeler,764,medium
+2022,apr,tamil nadu,3-wheeler,cargo 3-wheeler,221,low
+2022,apr,uttar pradesh,3-wheeler,cargo 3-wheeler,169,low
+2021,feb,assam,bus,city bus,97,low
+2025,jan,uttarakhand,bus,intercity bus,79,low
+2023,aug,west bengal,truck,heavy truck,62,low
+2022,sep,haryana,bus,city bus,96,low
+2025,mar,arunachal pradesh,truck,heavy truck,61,low
+2025,jan,meghalaya,4-wheeler,suv,183,low
+2024,feb,sikkim,truck,heavy truck,40,low
+2021,jan,rajasthan,3-wheeler,cargo 3-wheeler,604,medium
+2021,jun,karnataka,truck,heavy truck,23,low
+2025,may,gujarat,4-wheeler,suv,632,medium
+2023,jun,delhi,bus,intercity bus,26,low
+2024,dec,telangana,4-wheeler,suv,415,medium
+2023,aug,delhi,truck,light truck,73,low
+2022,feb,tamil nadu,4-wheeler,car,573,medium
+2024,jul,goa,3-wheeler,auto rickshaw,494,medium
+2021,mar,madhya pradesh,bus,city bus,114,low
+2025,sep,tamil nadu,4-wheeler,suv,312,medium
+2023,sep,uttarakhand,truck,light truck,50,low
+2021,dec,delhi,2-wheeler,scooter,1686,high
+2023,aug,uttar pradesh,2-wheeler,motorcycle,1544,high
+2023,may,karnataka,4-wheeler,suv,357,medium
+2021,jul,bihar,4-wheeler,car,595,medium
+2025,nov,punjab,truck,light truck,36,low
+2023,jun,rajasthan,truck,heavy truck,57,low
+2021,jul,odisha,4-wheeler,suv,153,low
+2022,nov,tripura,4-wheeler,suv,632,medium
+2025,jul,uttarakhand,2-wheeler,scooter,351,medium
+2023,apr,jharkhand,4-wheeler,suv,278,low
+2025,nov,kerala,4-wheeler,suv,376,medium
+2025,sep,maharashtra,bus,city bus,23,low
+2021,mar,tamil nadu,3-wheeler,cargo 3-wheeler,771,medium
+2021,apr,delhi,bus,city bus,12,low
+2021,aug,mizoram,2-wheeler,scooter,1598,high
+2024,sep,telangana,2-wheeler,scooter,557,medium
+2025,mar,assam,bus,intercity bus,29,low
+2022,dec,himachal pradesh,bus,city bus,16,low
+2025,mar,andhra pradesh,2-wheeler,motorcycle,1782,high
+2023,aug,maharashtra,truck,heavy truck,70,low
+2024,mar,sikkim,truck,light truck,75,low
+2025,aug,punjab,truck,heavy truck,67,low
+2025,may,karnataka,bus,city bus,103,low
+2021,aug,himachal pradesh,4-wheeler,suv,271,low
+2022,may,andhra pradesh,2-wheeler,scooter,724,medium
+2023,aug,mizoram,2-wheeler,motorcycle,1567,high
+2024,may,andhra pradesh,bus,intercity bus,76,low
+2022,jan,mizoram,4-wheeler,car,426,medium
+2025,jul,kerala,3-wheeler,auto rickshaw,742,medium
+2024,jul,gujarat,4-wheeler,car,437,medium
+2022,sep,telangana,truck,heavy truck,36,low
+2025,may,madhya pradesh,3-wheeler,auto rickshaw,196,low
+2022,may,bihar,bus,intercity bus,34,low
+2025,aug,goa,4-wheeler,car,160,low
+2021,sep,andhra pradesh,3-wheeler,auto rickshaw,298,low
+2023,mar,sikkim,bus,city bus,29,low
+2021,mar,andhra pradesh,bus,city bus,43,low
+2024,may,tripura,bus,intercity bus,59,low
+2021,jun,assam,3-wheeler,auto rickshaw,282,low
+2024,feb,mizoram,bus,city bus,24,low
+2023,jul,uttar pradesh,2-wheeler,scooter,1593,high
+2022,jul,telangana,bus,city bus,94,low
+2021,apr,maharashtra,2-wheeler,scooter,988,medium
+2024,nov,himachal pradesh,4-wheeler,car,649,medium
+2021,dec,mizoram,truck,light truck,32,low
+2024,nov,himachal pradesh,3-wheeler,cargo 3-wheeler,63,low
+2022,feb,gujarat,bus,intercity bus,1,low
+2022,may,nagaland,2-wheeler,motorcycle,1636,high
+2022,jan,arunachal pradesh,truck,heavy truck,76,low
+2022,jun,telangana,2-wheeler,scooter,342,medium
+2024,feb,rajasthan,truck,heavy truck,80,low
+2021,jan,karnataka,3-wheeler,auto rickshaw,138,low
+2024,apr,jharkhand,truck,heavy truck,56,low
+2022,jan,sikkim,bus,intercity bus,92,low
+2022,may,west bengal,2-wheeler,motorcycle,1467,high
+2024,sep,himachal pradesh,truck,heavy truck,24,low
+2025,mar,mizoram,4-wheeler,suv,484,medium
+2023,oct,uttarakhand,truck,light truck,8,low
+2025,mar,maharashtra,4-wheeler,suv,559,medium

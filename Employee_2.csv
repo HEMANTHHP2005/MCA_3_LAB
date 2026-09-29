@@ -1,0 +1,16 @@
+Employee_Id,Employee_Name,Department,Age,Gender,Education,City,Year_of_Experience,Salary
+EMP001,Hemanth P,HR,24,Male,B.Sc,Chennai,2,20000
+EMP002,Viji K,IT,27,Female,B.E,Bengaluru,4,20001
+EMP003,Adithya R,Software Development,31,Male,M.Tech,Hyderabad,7,20002
+EMP004,Viji N,Finance,29,Female,MBA,Pune,5,20003
+EMP005,Manoj ,Production,35,Male,B.Tech,Coimbatore,10,20004
+EMP006,Anjali Gupta,Accounts,26,Female,B.Com,Mumbai,3,20005
+EMP007,Vivek Singh,Cyber Security,38,Male,MCA,Delhi,12,20006
+EMP008,Meera Nair,Research & Development,30,Female,M.Sc,Kochi,6,20007
+EMP009,Sanjay Patel,Operations,41,Male,MBA,Ahmedabad,15,20008
+EMP010,Kavya R,Customer Support,23,Female,BCA,Mysuru,1,20009
+EMP011,Rohit Das,Quality Assurance,33,Male,B.Tech,Kolkata,8,20010
+EMP012,Divya Iyer,Marketing,28,Female,M.Com,Madurai,4,20011
+EMP013,Naveen Kumar,Engineering,36,Male,M.E,Salem,11,20012
+EMP014,Aishwarya P,Sales,25,Female,BBA,Tiruchirappalli,2,20013
+EMP015,Harish M,Data Science,40,Male,Ph.D,Chennai,16,20013
